@@ -7,9 +7,9 @@ Il progetto ha l'obiettivo di sviluppare una piattaforma WoT composta da più co
 ![Schema architettura](link-immagine)
 
 ## Componenti
-- [Edge Device](https://github.com/tuo-username/wot-project-2024-2025--edge-device)
-- [Gateway](https://github.com/tuo-username/wot-project-2024-2025--gateway)
-- [Frontend](https://github.com/tuo-username/wot-project-2024-2025--frontend)
+- [Backend](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--backend)
+- [Gateway](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--api-gateway)
+- [Frontend](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--frontend)
 
 ## Demo
 (Video, immagini, link, ecc.)
