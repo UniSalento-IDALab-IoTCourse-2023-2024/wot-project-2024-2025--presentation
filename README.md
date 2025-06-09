@@ -8,7 +8,7 @@ Il progetto ha l'obiettivo di sviluppare una piattaforma WoT composta da più co
 
 ## Componenti
 - [Backend](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--backend)
-- [Gateway](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--api-gateway)
+- [API Gateway](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--api-gateway)
 - [Frontend](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025--frontend)
 
 ## Demo
